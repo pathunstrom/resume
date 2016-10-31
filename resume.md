@@ -2,39 +2,46 @@
 
 Platform engineer
 
+On the web at [github](https://github.com/pathunstrom), 
+[Twitter](https://twitter.com/pathunstrom) and 
+[LinkedIn](https://www.linkedin.com/in/piper-thunstrom-69248187)
+
 ## Skills
+
+Python, MongoDB, JSON APIs, AWS, HTML5, Go, Javascript
 
 ### Web Platforms
 
-*Platform engineer* at **Dog on a Horse** from 2014 to 2016. Was responsible for
-managing cloud infrastructure on *AWS*, data store management with *MongoDB*,
-*Redis*, and *MySQL*, and platform design and development using *Brubeck* and
-*Python*.
+**Platform engineer** at *Dog on a Horse* from 2014 to 2016. Managed cloud 
+infrastructure on **AWS**, **MongoDB**, **Redis**, and **MySQL** data stores. 
+Designed and developed mobile application APIs using **Python** and
+**Brubeck**.
 
-Independent *web engineer* and *small business consultant* from 2013. Built a 
-*flask* web application and text-based CMS for **Academic Tours and Travel** 
-in 2014. Consulted and planned **Neverland Library** a fiction web archive with
-editorial tools. Website administration for **Sling With Me**, ongoing.
+Independent **web engineer** and **small business consultant** from 2013.
+Designed and built a text-based CMS and **flask** web application for
+*Academic Tours and Travel*. Designed *Neverland Library* a fiction web 
+archive with editorial tools. **Website administrator** and 
+**technical consultant** for *Sling With Me*.
 
 ### Project Management and Architecture
 
-*Owner*, *maintainer*, and *architect* of **Pursued Py Bear** an educational 
-Python game framework started in 2016, due for formal release summer of 2017.
+**Owner**, **maintainer**, and **architect** of 
+*[Pursued Py Bear](https://github.com/pathunstrom/pursuedpybear)* an 
+educational Python game framework started in 2016, due for formal release 
+summer of 2017.
 
-*Lead* an ad-hoc team at **Dog on a Horse** when a new storefront was requested 
-by the client. Worked closely with mobile application team to find working
-compromises that would improve application architecture and reduce standing
-technical debt. Wrote the work proposal for delivery to the client. After 
-receiving permission to proceed, worked with the team to deliver the refactor 
-ahead of schedule.
+**Lead** an ad-hoc team at *Dog on a Horse* for a new storefront. Worked 
+with mobile application team to find compromises that would improve application 
+architecture and reduce standing technical debt. Wrote the work proposal for 
+the client. With permission to proceed, worked with the team to deliver the 
+refactor ahead of schedule.
 
 ### Communication
 
-*Technical Speaker*, given multiple talks since 2014 with various Python
-technical groups. Given three talks at consecutive **PyGotham** conferences.
-*Making Games with Pygame* and *Making Games* are both game related talks. They 
-discuss patterns, anti-patterns, and key concepts of game making and how to 
-think when engineering game systems.
+**Technical Speaker** 
+* [Games With Pygame](https://2014.pygotham.org/talks/97.html)
+* [Introduction to the Pygame Library](https://2015.pygotham.org/talks/128/introduction-to-the-pygam/)
+* [Making Games](https://2016.pygotham.org/talks/255/making-games/)
 
 ## Contact
 
