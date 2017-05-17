@@ -12,16 +12,19 @@ Python, MongoDB, JSON APIs, AWS, HTML5, Go, Javascript
 
 ### Web Platforms
 
+**Python engineer** at *Handshake* in 2017. Member of core engineering team
+where I designed and developed customized validators for **Django**. During
+a change to our permissioning system was tasked with rebuilding our
+authorization backend. Built custom filters for a **Tastypie** based REST API.
+
 **Platform engineer** at *Dog on a Horse* from 2014 to 2016. Managed cloud 
 infrastructure on **AWS**, **MongoDB**, **Redis**, and **MySQL** data stores. 
 Designed and developed mobile application APIs using **Python** and
 **Brubeck**.
 
 Independent **web engineer** and **small business consultant** from 2013.
-Designed and built a text-based CMS and **flask** web application for
-*Academic Tours and Travel*. Designed *Neverland Library* a fiction web 
-archive with editorial tools. **Website administrator** and 
-**technical consultant** for *Sling With Me*.
+Designed and built text-based CMS and **flask** applications. **Website 
+administrator** and **technical consultant**.
 
 ### Project Management and Architecture
 
