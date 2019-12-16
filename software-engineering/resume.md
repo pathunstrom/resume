@@ -27,8 +27,8 @@ ecosystem.
 
 **Owner**, **maintainer**, and **architect** of 
 *[Pursued Py Bear](https://github.com/ppb/pursuedpybear)* an 
-educational Python game framework started in 2016. Most recent release September
-2019.
+educational Python game framework started in 2016. Most recent release
+September 2019.
 
 **Lead** an ad-hoc team at *Dog on a Horse* for a new storefront. Found cross
 team compromises that would improve application architecture and reduce
@@ -39,8 +39,7 @@ team to deliver ahead of schedule.
 
 **Technical Speaker** 
 
-* [Introduction to the Pygame Library](https://2015.pygotham.org/talks/128/introduction-to-the-pygam/)
-* [Making Games](https://2016.pygotham.org/talks/255/making-games/)
+* [Making Games](https://youtu.be/ZM7CjZXccY8)
 * [Monkeypatching My Life](https://2017.pygotham.org/talks/monkey-patching-my-life-being-a-trans-python-developer/)
 * [Accepting Your Successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)
 
