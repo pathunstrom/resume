@@ -4,7 +4,6 @@ Software Engineer
 
 [github](https://github.com/pathunstrom): https://github.com/pathunstrom
 
-
 ### Web Platforms
 
 **Software Engineer** at *GLG* from 2017 to present. Member of various
@@ -21,7 +20,6 @@ backend. Built custom filters for a **Tastypie** API.
 **Platform engineer** at *Dog on a Horse* from 2014 to 2016. Managed **AWS**
 based infrastructure and build JSON application APIs for *Topps* application
 ecosystem.
-
 
 ### Project Management and Architecture
 
@@ -55,4 +53,4 @@ publication April 28, 2020
 
 * Email and Skype: pathunstrom@gmail.com
 * Phone: (302) 430-2370
-* [LinkedIn](https://www.linkedin.com/in/piper-thunstrom-69248187)
+* [LinkedIn](https://www.linkedin.com/in/piper-thunstrom-69248187): https://www.linkedin.com/in/piper-thunstrom-69248187
