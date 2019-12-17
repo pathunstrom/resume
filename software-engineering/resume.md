@@ -1,4 +1,3 @@
-\pagenumbering{gobble}
 # Piper Thunstrom
 
 Software Engineer
