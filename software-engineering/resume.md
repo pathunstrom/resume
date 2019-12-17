@@ -1,6 +1,7 @@
+\pagenumbering{gobble}
 # Piper Thunstrom
 
-Platform engineer
+Software Engineer
 
 [github](https://github.com/pathunstrom): https://github.com/pathunstrom
 
@@ -43,8 +44,16 @@ team to deliver ahead of schedule.
 * [Monkeypatching My Life](https://2017.pygotham.org/talks/monkey-patching-my-life-being-a-trans-python-developer/)
 * [Accepting Your Successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)
 
+**Technical Vetter**
+
+*Code This Game* from Odd Dot published September 3, 2019
+
+*Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook:
+The Complete Middle School Study Guide* from Workman Publishing due for
+publication April 28, 2020
+
 ## Contact
 
 * Email and Skype: pathunstrom@gmail.com
 * Phone: (302) 430-2370
-* [LinkedIn](https://www.linkedin.com/in/piper-thunstrom-69248187)(https://www.linkedin.com/in/piper-thunstrom-69248187)
+* [LinkedIn](https://www.linkedin.com/in/piper-thunstrom-69248187)
