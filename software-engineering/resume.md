@@ -37,9 +37,9 @@ team to deliver ahead of schedule.
 
 **Technical Speaker** 
 
-* [Making Games](https://youtu.be/ZM7CjZXccY8)
-* [Monkeypatching My Life](https://2017.pygotham.org/talks/monkey-patching-my-life-being-a-trans-python-developer/)
-* [Accepting Your Successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)
+* [Making Games](https://youtu.be/ZM7CjZXccY8) PyOhio 2018
+* [Monkeypatching My Life](https://2017.pygotham.org/talks/monkey-patching-my-life-being-a-trans-python-developer/) PyGotham 2017
+* [Accepting Your Successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/) PyGotham 2019
 
 **Technical Vetter**
 
