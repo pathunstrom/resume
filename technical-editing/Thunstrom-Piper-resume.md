@@ -44,8 +44,8 @@ meetup events. Presented as:
 ## Software Background
 
 **Maintainer** *PursuedPyBear* 2016 to Present
-Author of library, PursuedPyBear, an education focused game engine written
-Python. Lead a small team (3 core developers) and do primary outreach for the
+Author of library, PursuedPyBear, an education focused game engine written in
+Python. Leads a small team (3 core developers) and do primary outreach for the
 project.
 
 **Software Engineer** *GLG* 2017 to Present
@@ -54,7 +54,7 @@ end technologies. Including:
 
 * Timesheet application for expert witnesses written in React and SQL
 * quoting and cost estimation tool for survey products written in RiotJS.
-  $500,000 annual revenue increase, 3% savings in operating costs per project).
+  $500,000 annual revenue increase, 3% savings in operating costs per project.
 * Various other projects assisting back office goals.
 
 **Python Developer** *Handshake* 2017
