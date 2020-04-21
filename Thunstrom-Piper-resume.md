@@ -1,5 +1,3 @@
-\pagenumbering{gobble}
-
 # Piper Thunstrom
 
 [github account][github]: https://github.com/pathunstrom
