@@ -6,7 +6,13 @@ Software Engineer
 
 ### Web Platforms
 
-**Software Engineer** at *GLG* from 2017 to present. Member of various
+**Senior Python Engineer** at *Zipari* from 2020 to 2021. Worked on product team
+in member experience. Designed and built the back end apis for multiple new
+features that allowed viewing new kinds of health care data in the platform.
+Solved data generation problems for testing environments across service boundaries
+by leveraging tool design and python packaging expertise.
+
+**Software Engineer** at *GLG* from 2017 to 2020. Member of various
 project focused teams. Built an internal quoting tool that increased margins
 on relevant products by 3% and approximately $500,000 a year. Improved time
 tracking application for expert witnesses. Member of a team improving accounting
@@ -33,7 +39,7 @@ team compromises that would improve application architecture and reduce
 standing technical debt. Wrote proposal to be sent to client. Worked with the
 team to deliver ahead of schedule.
 
-### Communication
+### Developer Relations
 
 **Technical Speaker** 
 
