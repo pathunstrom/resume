@@ -2,6 +2,7 @@
 
 Software Engineer
 
+pathunstrom@gmail.com - (302) 430 2370 - 
 [github](https://github.com/pathunstrom): https://github.com/pathunstrom
 
 ### Web Platforms
@@ -54,9 +55,3 @@ team to deliver ahead of schedule.
 *Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook:
 The Complete Middle School Study Guide* from Workman Publishing due for
 publication April 28, 2020
-
-## Contact
-
-* Email and Skype: pathunstrom@gmail.com
-* Phone: (302) 430-2370
-* [LinkedIn](https://www.linkedin.com/in/piper-thunstrom-69248187): https://www.linkedin.com/in/piper-thunstrom-69248187
