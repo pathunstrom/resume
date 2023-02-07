@@ -1,17 +1,20 @@
+\pagenumbering{gobble}
 # Piper Thunstrom
 
 Software Engineer
 
-pathunstrom@gmail.com - (360) 951 4967 - 
+pathunstrom@gmail.com - (360) 951 4967 -
 [github](https://github.com/pathunstrom): https://github.com/pathunstrom
 
 ### Web Platforms
 
-**Senior Software Engineer** at *YipitData* from 2021 to present. Senior with
-direct responsibility for our analyst facing internal tooling on the Publishing team.
+**Senior Software Engineer** at *YipitData* from 2021 to 2023.
+Senior with direct responsibility for our analyst facing internal tooling on
+the Publishing team.
 Increased the functionality of our automated deliverable pipeline by designing new
 parameterized queries to support growth rate analysis supporting multiple metrics and
-time deltas. Redesigned based query templating engine to improve performance (50% final
+time deltas.
+Redesigned base query templating engine to improve performance (50% final
 run time compared to previous), and work with PrestoDB based limitations around query
 string limit and query stage limit. More than doubled the amount of data we could query
 at once.
@@ -39,8 +42,8 @@ ecosystem.
 
 ### Project Management and Architecture
 
-**Owner**, **maintainer**, and **architect** of 
-*[Pursued Py Bear](https://github.com/ppb/pursuedpybear)* an 
+**Owner**, **maintainer**, and **architect** of
+*[Pursued Py Bear](https://github.com/ppb/pursuedpybear)* an
 educational Python game framework started in 2016. v1.1 released in December 2021.
 Responsible for primary API design, performed via stakeholder interviews over
 multiple years. Community outreach performed concurrently with meetup organization,
@@ -57,13 +60,15 @@ team to deliver ahead of schedule.
 
 ### Developer Relations
 
-**Technical Speaker** 
+**Technical Speaker**
 
-* [Cooking Up Easy to Publish Games with a Bear and a Briefcase](https://www.youtube.com/watch?v=TbddkkmrF_0) Pygotham TV 2020
+* [Cooking Up Easy to Publish Games with a Bear and a Briefcase](https://www.youtube.com/watch?v=TbddkkmrF_0) Pygotham
+  TV 2020
 * [Accepting Your Successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/) PyGotham 2019 Keynote
 
 * [Making Games](https://youtu.be/ZM7CjZXccY8) PyOhio 2018
-* [Monkeypatching My Life](https://2017.pygotham.org/talks/monkey-patching-my-life-being-a-trans-python-developer/) PyGotham 2017
+* [Monkeypatching My Life](https://2017.pygotham.org/talks/monkey-patching-my-life-being-a-trans-python-developer/)
+  PyGotham 2017
 
 **Technical Vetter**
 
