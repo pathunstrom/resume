@@ -2,7 +2,7 @@
 
 [github account][github]: https://github.com/pathunstrom
 
-## Software Developer
+## Internal Tooling
 
 **Staff Engineer** at *ArkiFi* from 2023 to 2024.
 Early stage engineer building out core technology stack. In charge of design of
@@ -35,35 +35,43 @@ automated revenue recognition using coffee script, bash scripting and SQL
 queries. Metrics dashboard for recruiting team in FeatherJS, React, and
 TypeScript.
 
+## Full Stack Web Development
+
 **Python engineer** at *Handshake* in 2017. Member of core engineering team.
 Designed and developed customized validators for **Django**. During a change
 to our permissioning system was tasked with rebuilding the authorization
 backend. Built custom filters for a **Tastypie** API.
 
-**Python engineer** at *Dog on a Horse* from 2014 to 2016. Managed **AWS**
+**Platform engineer** at *Dog on a Horse* from 2014 to 2016. Managed **AWS**
 based infrastructure and built JSON application APIs for *Topps* application
 ecosystem.
 
-## Community Management
+## Open Source and Community Outreach
 
-**Owner** and **maintainer** of [PursuedPyBear][ppb](http://ppb.dev). Launched
-project with a focus on user friendly APIs and education focused design in 2016.
-Built the community from a solo project to include educators, developers, and
-hobbyists. Given talks on the library at PyTexas and PyOhio. Lead architecture
-and governance.
+**Owner** and **maintainer** of [PursuedPyBear][ppb](http://ppb.dev)
+Launched project with a focus on user-friendly APIs and education focused design
+in 2016. Built the community from a solo project to include educators,
+developers, and hobbyists. Given talks on the library at multiple conferences
+in the USA. Latest focus has been on information design for the documentation
+and tutorials.
 
-**Organizer** with [New York City Python Meetup Group][nycpy] from August 2017
-to 2020. Invited to help restart the group after a number of years of not being
-active. We built the  meetup from an average of 15-20 attendees to 50-60.
-Organized multiple events with 100+ attendees. Coached newer organizers to have
-ownership over events.
+**Organizer** with [New York City Python Meetup Group][nycpy] from August 2017 to 2020.
+Invited to help restart the group after a number of years of not being active.
+We built the  meetup from an average of 15-20 weekly attendees to 50-60. Organized
+multiple events with 100+ attendees. Coached newer organizers to have ownership
+over events.
 
-## Communication and Community Outreach
+**Technical Speaker**
+Speak on game development in Python, PursuedPyBear, social issues, and python
+type hinting. Given at multiple regional conferences, Python Education summit,
+and meetups and user groups around the country. Presented both virtually and
+in-person
 
-**Public speaker**: Given talks on a variety of topics, such as Python game
-development and community leadership. 9 conference talks from 2014 to present at
-PyGotham, PyOhio, PyTexas, and PyTennessee. Additionally numerous talks at local
-meetups in New York. On panels at 3 events with PyLadies NYC.
+* Pygotham: 2014, 2015, 2016, 2017, 2018, 2019 (Keynote), 2020
+* PyOhio: 2018, 2019
+* PyTennessee: 2019
+* PyCascades: 2021, 2024
+* PyTexas: 2019
 
 **Technical Vetter** for *Code This Game* from Odd Dot, published September 3,
 2019 and *Everything You Need to Ace Computer Science and Coding in One Big Fat
@@ -71,12 +79,10 @@ Notebook: The Complete Middle School Study Guide* from Workman Publishing
 published April 14, 2020.
 
 ## Contact
-
-* Email and Skype: pathunstrom@gmail.com
+* Email: pathunstrom@gmail.com
 * Phone: (360) 951-4967
 * [LinkedIn][link]: https://www.linkedin.com/in/piper-thunstrom-69248187
 
 [github]: https://github.com/pathunstrom
 [link]: https://www.linkedin.com/in/piper-thunstrom-69248187
-[nycpy]: https://www.meetup.com/nycpython
 [ppb]: https://ppb.dev
