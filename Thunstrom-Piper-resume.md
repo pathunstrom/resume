@@ -6,43 +6,55 @@
 
 **Staff Engineer** at *ArkiFi* from 2023 to 2024.
 Early stage engineer building out core technology stack. In charge of design of
-internal data access layer. Architected, designed and implemented Excel
-Javascript add-in supporting an AI powered chat bot for financial analysis.
-Wrote the authentication and authorization layer for product launch.
+internal data access layer. Architected, designed and implemented **Excel
+Javascript add-in** using **React** and **Typescript** supporting an AI powered
+chatbot for financial analysis.
+Wrote the authentication and authorization layer for product launch using
+**cryptojwt** and **Microsoft SSO**.
 
 **Senior Software Engineer** at *YipitData* from 2021 to 2023.
 Senior with direct responsibility for our analyst facing internal tooling on
 the Publishing team.
-Increased the functionality of our automated deliverable pipeline by designing new
-parameterized queries to support growth rate analysis supporting multiple metrics and
-time deltas.
+Increased the functionality of our automated deliverable pipeline by designing
+new parameterized queries to support growth rate analysis supporting multiple
+metrics and time deltas.
 Redesigned base query templating engine to improve performance (50% final
-run time compared to previous), and work with PrestoDB based limitations around query
-string limit and query stage limit. More than doubled the amount of data we could query
-at once.
-
+run time compared to previous), and work with **PrestoDB** and **AWS Athena**
+based limitations around query string limit and query stage limit. More than
+doubled the amount of data we could query at once.
+Maintained front-ends built with **React** and **TypeScript**.
+Used **AWS** **SQS** for queuing services.
+Implemented features for generating automated reports in **Microsoft Office 365**
+and **Google Workspace** using the Microsoft and Google **Graph APIs**.
 **Senior Python Engineer** at *Zipari* from 2020 to 2021. Worked on product team
 in member experience. Designed and built the back end apis for multiple new
 features that allowed viewing new kinds of health care data in the platform.
 Solved data generation problems for testing environments across service boundaries
 by leveraging tool design and python packaging expertise.
 
+**Senior Python Engineer** at *Zipari* from 2020 to 2021. Worked on product team
+in member experience. Designed and built the back end apis for multiple new
+features that allowed viewing new kinds of health care data in the platform.
+Solved data generation problems for testing environments across service boundaries
+by leveraging tool design and python packaging expertise.
+Most of the platform was built on **Django** and **Django Rest Framework**.
+
 **Software Engineer** at *GLG* from 2017-2020. Developed a quoting tool for
-digital surveys that saved 3% of operating cost using RiotJS. Upgraded MS
-Dynamics accounting system with minimal downtime. Enhanced a timesheet
-application for expert witnesses using React. Attempted improvement of
-automated revenue recognition using coffee script, bash scripting and SQL
-queries. Metrics dashboard for recruiting team in FeatherJS, React, and
-TypeScript.
+digital surveys that saved 3% of operating cost using **RiotJS**. Upgraded **MS
+Dynamics** accounting system with minimal downtime. Enhanced a timesheet
+application for expert witnesses using **React**. Attempted improvement of
+automated revenue recognition using **coffee script**, **bash** scripting and
+**SQL** queries. Metrics dashboard for recruiting team in **FeatherJS**,
+**React**, and **TypeScript**.
 
 **Python engineer** at *Handshake* in 2017. Member of core engineering team.
 Designed and developed customized validators for **Django**. During a change
 to our permissioning system was tasked with rebuilding the authorization
 backend. Built custom filters for a **Tastypie** API.
 
-**Python engineer** at *Dog on a Horse* from 2014 to 2016. Managed **AWS**
+**Backend engineer** at *Dog on a Horse* from 2014 to 2016. Managed **AWS**
 based infrastructure and built JSON application APIs for *Topps* application
-ecosystem.
+ecosystem. Used **Python**, **Brubeck** and **Go**.
 
 ## Community Management
 
