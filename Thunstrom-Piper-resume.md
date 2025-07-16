@@ -1,3 +1,4 @@
+\pagenumbering{gobble}
 # Piper Thunstrom
 
 [github account][github]: https://github.com/pathunstrom
@@ -58,7 +59,7 @@ ecosystem. Used **Python**, **Brubeck** and **Go**.
 
 ## Community Management
 
-**Owner** and **maintainer** of [PursuedPyBear][ppb](http://ppb.dev). Launched
+**Owner** and **maintainer** of [PursuedPyBear][ppb]. Launched
 project with a focus on user friendly APIs and education focused design in 2016.
 Built the community from a solo project to include educators, developers, and
 hobbyists. Given talks on the library at PyTexas and PyOhio. Lead architecture
