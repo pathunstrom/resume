@@ -27,6 +27,7 @@ Maintained front-ends built with **React** and **TypeScript**.
 Used **AWS** **SQS** for queuing services.
 Implemented features for generating automated reports in **Microsoft Office 365**
 and **Google Workspace** using the Microsoft and Google **Graph APIs**.
+
 **Senior Python Engineer** at *Zipari* from 2020 to 2021. Worked on product team
 in member experience. Designed and built the back end apis for multiple new
 features that allowed viewing new kinds of health care data in the platform.
